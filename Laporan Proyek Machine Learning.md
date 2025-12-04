@@ -1,4 +1,3 @@
----
 ## INFORMASI PROYEK
 
 **Judul Proyek:**  
@@ -749,4 +748,5 @@ lightgbm==4.0.0
 opencv-python==4.8.0  # untuk computer vision
 nltk==3.8.1           # untuk NLP
 transformers==4.30.0  # untuk BERT, dll
+
 ```
